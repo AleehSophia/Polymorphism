@@ -8,7 +8,7 @@ Outsourced employees have an additional charge.
 <br>
 The employee's payment corresponds the value per hour 
 multiplied by worked hours, outsourced employees received 
-a bonus correspondent to 110% of your additional charge.
+a bonus correspondent to 110% of their additional charge.
 <br>
 Do a program that read data from N employees (input)
 and store in a list.
