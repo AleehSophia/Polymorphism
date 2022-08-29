@@ -20,3 +20,5 @@ input.
 ### Model
 ![model.png](assets/model.png) 
 
+### Output
+![output.png](assets/output.png)
